@@ -1,0 +1,1876 @@
+
+body {
+    background: #E6D6C4;
+}
+.about {
+    position: absolute;
+    width: 208px;
+    height: 29px;
+    left: 50px;
+    top: 32px;
+    font-family: 'Limelight', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+}
+
+.menu {
+    position: absolute;
+    width: 208px;
+    height: 29px;
+    left: 250px;
+    top: 32px;
+    font-family: 'Limelight', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+}
+
+.contact {
+    position: absolute;
+    width: 208px;
+    height: 29px;
+    left: 1000px;
+    top: 32px;
+    font-family: 'Limelight', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+}
+
+.visit {
+    position: absolute;
+    width: 207px;
+    height: 29px;
+    left: 1200px;
+    top: 32px;
+    font-family: 'Limelight', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+}
+
+.bigtitle {
+    position: absolute;
+    width: 622px;
+    height: 385px;
+    left: 110px;
+    top: 220px;
+    font-family: 'Limelight', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 144px;
+    line-height: 175px;
+    color: #FFFFFF;
+}
+.description {
+    position: absolute;
+    width: 500px;
+    height: 163px;
+    left: 130px;
+    top: 560px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.whatsbrewin {
+    position: absolute;
+    width: 441px;
+    height: 102px;
+    left: 200px;
+    top: 15px;
+}
+
+#img1 {
+    position: absolute;
+    width: 400px;
+    left: 540px;
+    top: 15px;
+}
+
+#img2 {
+    position: absolute;
+    left: 570px;
+    top: 170px;
+    width: 750px;
+}
+
+#img3 {
+    position: absolute;
+    width: 600px;
+    left: 250px;
+    top: 950px;
+}
+
+.hours {
+    position: absolute;
+    width: 580px;
+    height: 237px;
+    left: 650px;
+    top: 1000px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 88px;
+    text-align: center;
+    color: #000000;
+}
+.bluerectangle {
+    position: absolute;
+    width: 436px;
+    height: 234px;
+    left: 800px;
+    top: 1100px;
+    background: #6886A3;
+}
+.week {
+    position: absolute;
+    width: 450px;
+    height: 300px;
+    left: 790px;
+    top: 1140px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+.times {
+    position: absolute;
+    width: 580px;
+    height: 237px;
+    left: 730px;
+    top: 1245px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.visitbutton {
+    position: absolute;
+    width: 191px;
+    height: 46px;
+    left: 700px;
+    top: 1500px;
+    background: #6886A3;
+}
+
+.visitbuttontext {
+    position: absolute;
+    width: 141px;
+    height: 37px;
+    left: 722px;
+    top: 1505px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+#img4 {
+    position: absolute;
+    width: 600px;
+    left: 750px;
+    top: 1600px;
+}
+
+
+.ourstory {
+    position: absolute;
+    width: 455px;
+    height: 78px;
+    left: 140px;
+    top: 1650px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 88px;
+    color: #000000;
+}
+
+.story {
+    position: absolute;
+    width: 600px;
+    height: 356px;
+    left: 150px;
+    top: 1750px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: #000000;
+}
+
+.seemorebutton {
+    position: absolute;
+    width: 220px;
+    height: 46px;
+    left: 300px;
+    top: 1945px;
+    background: #6886A3;
+}
+
+.seemore {
+    position: absolute;
+    width: 200px;
+    height: 37px;
+    left: 322px;
+    top: 1950px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+.contactus {
+    position: absolute;
+    width: 534px;
+    height: 206px;
+    left: 300px;
+    top: 181px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 88px;
+    color: #000000;
+}
+.contactdescription {
+    position: absolute;
+    width: 791px;
+    height: 470px;
+    left: 310px;
+    top: 284px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+.email {
+    position: absolute;
+    width: 151px;
+    height: 50px;
+    left: 290px;
+    top: 386px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #000000;
+}
+
+.emailrectangle {
+    position: absolute;
+    width: 700px;
+    height: 49px;
+    left: 310px;
+    top: 436px;
+    background: #C4C4C4;
+}
+
+.phone {
+    position: absolute;
+    width: 169px;
+    height: 50px;
+    left: 290px;
+    top: 515px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #000000;
+}.phonerectangle {
+     position: absolute;
+     width: 700px;
+     height: 49px;
+     left: 310px;
+     top: 565px;
+     background: #C4C4C4;
+ }
+
+ .message {
+     position: absolute;
+     width: 162px;
+     height: 50px;
+     left: 310px;
+     top: 658px;
+     font-family: Limelight, cursive;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 36px;
+     line-height: 44px;
+     text-align: center;
+     color: #000000
+ }
+
+ .messagerectangle {
+     position: absolute;
+     width: 700px;
+     height: 205px;
+     left: 310px;
+     top: 709px;
+     background: #C4C4C4;
+ }
+
+ .submitbutton {
+     position: absolute;
+     width: 252px;
+     height: 58px;
+     left: 520px;
+     top: 966px;
+     background: #6886A3
+ }
+
+ .submit {
+     position: absolute;
+     width: 195px;
+     height: 25px;
+     left: 545px;
+     top: 983px;
+     font-family: Limelight, cursive;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 24px;
+     line-height: 29px;
+     text-align: center;
+     color: #FFFFFF;
+ }
+
+ .connect {
+     position: absolute;
+     width: 693px;
+     height: 86px;
+     left: 310px;
+     top: 1076px;
+     font-family: Limelight, cursive;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 72px;
+     line-height: 88px;
+     color: #000000;
+ }
+
+ .follow {
+     position: absolute;
+     width: 553px;
+     height: 50px;
+     left: 480px;
+     top: 1221px;
+     font-family: Limelight, cursive;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 36px;
+     line-height: 44px;
+     color: #FFFFFF;
+ }
+
+ #img5 {
+     position: absolute;
+     width: 278px;
+     height: 264px;
+     left: 310px;
+     top: 1214px;
+ }
+
+ #img6 {
+     position: absolute;
+     width: 77px;
+     height: 77px;
+     left: 610px;
+     top: 1278px;
+ }
+
+ #img7 {
+     position: absolute;
+     width: 72px;
+     height: 72px;
+     left: 710px;
+     top: 1280px;
+ }
+ #img8 {
+     position: absolute;
+     width: 77px;
+     height: 77px;
+     left: 810px;
+     top: 1278px;
+ }
+
+ .posts {
+     position: absolute;
+     width: 350px;
+     height: 145px;
+     left: 610px;
+     top: 1373px;
+     font-family: Limelight, cursive;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 24px;
+     line-height: 30px;
+     color: #000000;
+ }
+
+ .menutitle {
+     position: absolute;
+     width: 431px;
+     height: 62px;
+     left: 50px;
+     top: 146px;
+     font-family: Limelight, cursive;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 72px;
+     line-height: 88px;
+     text-align: center;
+     color: #FFFFFF;
+ }
+
+ .call {
+     position: absolute;
+     width: 484px;
+     height: 32px;
+     left: 380px;
+     top: 184px;
+     font-family: Limelight, cursive;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 26px;
+     line-height: 32px;
+     color: #6886A3;
+ }
+
+ .menubar {
+     position: absolute;
+     width: 1450px;
+     height: 66px;
+     left: -10px;
+     top: 225px;
+     background: #6886A3;
+ }
+
+ .menubartext {
+     position: absolute;
+     width: 1235px;
+     height: 46px;
+     left: 160px;
+     top: 245px;
+     font-family: Limelight, serif;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 25px;
+     line-height: 30px;
+     color: #FFFFFF
+ }
+
+ .wrapbox {
+     position: absolute;
+     width: 560px;
+     height: 205px;
+     left: 750px;
+     top: 309px;
+     background: #6886A3;
+ }
+
+ #img13 {
+     position: absolute;
+     width: 509px;
+     height: 221px;
+     left: 150px;
+     top: 306px;
+ }
+
+ .sandwhichesandwraps {
+     position: absolute;
+     width: 453px;
+     height: 58px;
+     left: 770px;
+     top: 318px;
+     font-family: Limelight, cursive;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 36px;
+     line-height: 44px;
+     color: #FFFFFF
+ }
+
+ .wraptext {
+     position: absolute;
+     width: 530px;
+     height: 155px;
+     left: 770px;
+     top: 375px;
+     font-family: Fauna One, serif;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 24px;
+     line-height: 30px;
+     color: #FFFFFF;
+ }
+
+.breakfastsandwhich {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 150px;
+    top: 550px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.available {
+    position: absolute;
+    width: 302px;
+    height: 30px;
+    left: 150px;
+    top: 589px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+.breakfastingredients {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 150px;
+    top: 629px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.bfastprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 580px;
+    top: 550px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.turkeyprov {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 150px;
+    top: 706px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.turkeying {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 150px;
+    top: 751px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.turkeyprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 580px;
+    top: 706px;
+    font-family: Limelight, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.chickenclub {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 150px;
+    top: 828px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.chickenclubprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 580px;
+    top: 828px;
+    font-family: Limelight, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.chickenclubing {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 150px;
+    top: 873px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.snicklefritz {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 150px;
+    top: 950px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.snicklefritzprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 580px;
+    top: 950px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.snicklefritzing {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 150px;
+    top: 995px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.vegsalsawrap {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 770px;
+    top: 541px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.vegsalsaprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 1200px;
+    top: 541px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.vegsalsaing {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 770px;
+    top: 586px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.bltwrap {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 770px;
+    top: 685px;
+    font-family: Limelight, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.bltprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 1200px;
+    top: 685px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.blting {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 770px;
+    top: 730px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.ccbwrap {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 770px;
+    top: 807px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.ccbprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 1200px;
+    top: 807px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.ccbing {
+    position: absolute;
+    width: 521px;
+    height: 65px;
+    left: 770px;
+    top: 852px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.seafoodwrap {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 770px;
+    top: 928px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.seafoodwrapprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 1200px;
+    top: 928px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.seafoodwraping {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 770px;
+    top: 973px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+#img14 {
+    position: absolute;
+    width: 530px;
+    height: 190px;
+    left: 770px;
+    top: 1047px;
+}
+.soupandsaladback {
+    position: absolute;
+    width: 508px;
+    height: 200px;
+    left: 150px;
+    top: 1047px;
+    background: #6886A3;
+}
+
+.soupandsalad {
+    position: absolute;
+    width: 453px;
+    height: 58px;
+    left: 160px;
+    top: 1069px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+.soupandsaladdesc {
+    position: absolute;
+    width: 484px;
+    height: 124px;
+    left: 160px;
+    top: 1120px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+.soupofday {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 150px;
+    top: 1281px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.allsoups {
+    position: absolute;
+    width: 521px;
+    height: 21px;
+    left: 150px;
+    top: 1328px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+.cup {
+    position: absolute;
+    width: 521px;
+    height: 21px;
+    left: 150px;
+    top: 1381px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.bowl {
+    position: absolute;
+    width: 521px;
+    height: 27px;
+    left: 150px;
+    top: 1408px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.cupprice {
+    position: absolute;
+    width: 99px;
+    height: 14px;
+    left: 580px;
+    top: 1377px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.bowlprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 580px;
+    top: 1404px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.gardensalad {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 150px;
+    top: 1453px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+.gardensaladprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 580px;
+    top: 1453px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.gardensalading {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 150px;
+    top: 1498px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.chefsalad {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 770px;
+    top: 1281px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.chefsaladprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 1200px;
+    top: 1281px;
+    font-family: Limelight, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.chefsalading {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 770px;
+    top: 1326px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.clubsalad {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 770px;
+    top: 1425px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+.clubsaladprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 1200px;
+    top: 1425px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.clubsalading {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 770px;
+    top: 1470px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+#img15 {
+    position: absolute;
+    width: 530px;
+    height: 215px;
+    top: 1575px;
+    left: 770px;
+}
+.forthekidsback {
+    position: absolute;
+    width: 524px;
+    height: 135px;
+    left: 150px;
+    top: 1575px;
+    background: #6886A3;
+}
+
+.forthekids {
+    position: absolute;
+    width: 453px;
+    height: 58px;
+    left: 160px;
+    top: 1584px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+.forthekidsdesc {
+    position: absolute;
+    width: 484px;
+    height: 75px;
+    left: 160px;
+    top: 1634px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.grilledchese {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 150px;
+    top: 1720px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+.grilledcheseprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 580px;
+    top: 1720px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+.grilledcheseing {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 150px;
+    top: 1765px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.peanutbutter {
+    position: absolute;
+    width: 314px;
+    height: 29px;
+    left: 150px;
+    top: 1814px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.peanutbutterprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 580px;
+    top: 1814px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+.peanutbuttering {
+    position: absolute;
+    width: 521px;
+    height: 155px;
+    left: 150px;
+    top: 1859px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.grilledham {
+    position: absolute;
+    width: 453px;
+    height: 29px;
+    left: 770px;
+    top: 1814px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.grilledhamprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 1200px;
+    top: 1814px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.grilledhaming {
+    position: absolute;
+    width: 521px;
+    height: 58px;
+    left: 770px;
+    top: 1859px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+}
+
+#img16 {
+    position: absolute;
+    width: 530px;
+    height: 144px;
+    top: 1931px;
+    left: 150px;
+
+}
+.freshbakeryback {
+    position: absolute;
+    width: 532px;
+    height: 180px;
+    left: 750px;
+    top: 1931px;
+    background: #6886A3;
+}
+
+.freshbakery {
+    position: absolute;
+    width: 453px;
+    height: 58px;
+    left: 770px;
+    top: 1938px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+.bakerydescription {
+    position: absolute;
+    width: 490px;
+    height: 122px;
+    left: 770px;
+    top: 1995px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.muffins {
+    position: absolute;
+    width: 215px;
+    height: 29px;
+    left: 150px;
+    top: 2088px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+.muffinsprice {
+    position: absolute;
+    width: 99px;
+    height: 770px;
+    left: 580px;
+    top: 2088px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+.cinnamonrolls {
+    position: absolute;
+    width: 261px;
+    height: 29px;
+    left: 150px;
+    top: 2129px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.cinnamonrollsprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 580px;
+    top: 2129px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.cookie {
+    position: absolute;
+    width: 215px;
+    height: 29px;
+    left: 150px;
+    top: 2170px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.cookieprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 580px;
+    top: 2170px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.tartes {
+    position: absolute;
+    width: 215px;
+    height: 29px;
+    left: 770px;
+    top: 2126px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.tarteprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 1200px;
+    top: 2126px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+
+.croissant {
+    position: absolute;
+    width: 261px;
+    height: 29px;
+    left: 770px;
+    top: 2167px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.croissantprice {
+    position: absolute;
+    width: 261px;
+    height: 29px;
+    left: 1200px;
+    top: 2167px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+#img17 {
+    position: absolute;
+    width: 379px;
+    height: 198px;
+    left: 900px;
+    top: 2242px;
+}
+.fudgeback {
+    position: absolute;
+    width: 695px;
+    height: 161px;
+    left: 150px;
+    top: 2242px;
+    background: #6886A3;
+}
+
+.fudge {
+    position: absolute;
+    width: 453px;
+    height: 58px;
+    left: 160px;
+    top: 2252px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    color: #FFFFFF;
+}
+
+.fudgedesc {
+    position: absolute;
+    width: 680px;
+    height: 71px;
+    left: 160px;
+    top: 2301px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.perlbs {
+    position: absolute;
+    width: 215px;
+    height: 29px;
+    left: 150px;
+    top: 2416px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.fudgeprice {
+    position: absolute;
+    width: 99px;
+    height: 35px;
+    left: 580px;
+    top: 2416px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #6886A3;
+}
+#img9 {
+    position: absolute;
+    width: 459px;
+    height: 593px;
+    left: 200px;
+    top: 146px;
+}
+
+.ourstorypage {
+    position: absolute;
+    width: 431px;
+    height: 62px;
+    left: 500px;
+    top: 174px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 88px;
+    text-align: center;
+    color: #000000;
+}
+
+.growingup {
+    position: absolute;
+    width: 453px;
+    height: 470px;
+    left: 680px;
+    top: 298px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+#img10 {
+    position: absolute;
+    width: 279px;
+    height: 310px;
+    left: 150px;
+    top: 789px;
+}
+.mission {
+    position: absolute;
+    width: 741px;
+    height: 68px;
+    left: 320px;
+    top: 790px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 88px;
+    color: #000000;
+}
+
+.and {
+    position: absolute;
+    width: 103px;
+    height: 133px;
+    left: 612px;
+    top: 775px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 144px;
+    line-height: 175px;
+    color: #FFFFFF;
+}
+
+.vaules {
+    position: absolute;
+    width: 280px;
+    height: 68px;
+    left: 721px;
+    top: 840px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 88px;
+    color: #000000;
+}
+
+.missionandvalues {
+    position: absolute;
+    width: 750px;
+    height: 190px;
+    left: 450px;
+    top: 923px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
+}
+
+.box1 {
+    position: absolute;
+    width: 275px;
+    height: 440px;
+    left: 250px;
+    top: 1146px;
+    background: #6886A3;
+}
+
+.box1text {
+    position: absolute;
+    width: 218px;
+    height: 384px;
+    left: 280px;
+    top: 1190px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.box2 {
+    position: absolute;
+    width: 275px;
+    height: 440px;
+    left: 550px;
+    top: 1146px;
+    background: #6886A3;
+}
+
+.box2text {
+    position: absolute;
+    width: 218px;
+    height: 402px;
+    left: 580px;
+    top: 1190px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 32px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.box3 {
+    position: absolute;
+    width: 275px;
+    height: 440px;
+    left: 850px;
+    top: 1146px;
+    background: #6886A3;
+}
+
+.box3text {
+    position: absolute;
+    width: 197px;
+    height: 392px;
+    left: 880px;
+    top: 1190px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.visitus {
+    position: absolute;
+    width: 534px;
+    height: 206px;
+    left: 300px;
+    top: 191px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 88px;
+    color: #000000;
+}
+.visittext {
+    position: absolute;
+    width: 791px;
+    height: 470px;
+    left: 300px;
+    top: 294px;
+    font-family: Fauna One, serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: #000000;
+}
+
+#img11 {
+    position: absolute;
+    width: 461px;
+    height: 346px;
+    left: 300px;
+    top: 414px;
+}
+.addressbox {
+    position: absolute;
+    width: 509px;
+    height: 215px;
+    left: 600px;
+    top: 510px;
+    background: #6886A3;
+}
+
+.address {
+    position: absolute;
+    width: 500px;
+    height: 232px;
+    left: 599px;
+    top: 528px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.directionsbox {
+    position: absolute;
+    width: 252px;
+    height: 58px;
+    left: 550px;
+    top: 836px;
+    background: #6886A3;
+}
+
+.directionstext {
+    position: absolute;
+    width: 195px;
+    height: 25px;
+    left: 580px;
+    top: 853px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.review {
+    position: absolute;
+    width: 763px;
+    height: 86px;
+    left: 300px;
+    top: 936px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 88px;
+    color: #000000;
+}
+
+
+.ratingmessage {
+    position: absolute;
+    width: 162px;
+    height: 32px;
+    left: 310px;
+    top: 1050px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    color: #000000;
+}
+
+.ratingmessagebox {
+    position: absolute;
+    width: 700px;
+    height: 163px;
+    left: 310px;
+    top: 1110px;
+    background: #C4C4C4;
+}
+
+.reviewsubmitbox {
+    position: absolute;
+    width: 252px;
+    height: 58px;
+    left: 550px;
+    top: 1300px;
+    background: #6886A3;
+}
+
+.reviewsubmit {
+    position: absolute;
+    width: 195px;
+    height: 25px;
+    left: 580px;
+    top: 1320px;
+    padding-bottom: 50px;
+    font-family: Limelight, cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
